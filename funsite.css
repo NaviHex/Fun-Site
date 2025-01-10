@@ -238,11 +238,9 @@ h3 {
   transform: rotate(360deg); /* Full rotation */
 }
 
-#updates {
+#macleod {
   font-family: "IBM Plex Mono";
   margin: 0px;
-  margin-bottom: 10px;
-  margin-left: 3px;
 }
 
 #tpot {
